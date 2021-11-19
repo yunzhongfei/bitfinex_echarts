@@ -1,3 +1,5 @@
+J神的可视化，原始帖子；https://bbs.quantclass.cn/thread/276
+
 
 ## 在线体验
 http://144.34.219.181:3001/query?begin_time=2018-12-01&trade_symbol=eth
